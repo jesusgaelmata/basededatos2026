@@ -210,5 +210,4 @@ CREATE TABLE nombre_tabla
 CREATE
 ALTER
 DROP
-```
 
