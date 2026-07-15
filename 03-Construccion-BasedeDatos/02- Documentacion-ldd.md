@@ -213,4 +213,15 @@ DROP
 
 
 
+### Alter Table
+
+Permite modificar una tabla existente
+
+Puede: 
+
+- Agregar Columnas
+- Eliminar columnas
+- Modificar columnas
+- Agregar restricciones
+- Eliminar restricciones
 
