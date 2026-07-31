@@ -153,3 +153,4 @@ REFERENCES representante (representante_id);
 GO
 ```
 
+![Diagrama Comercializadora](..//construccion/08-DIagrama-comercializadora.png)

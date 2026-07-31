@@ -150,3 +150,5 @@ ADD CONSTRAINT fk_cliente_representante
 FOREIGN KEY (representante_id)
 REFERENCES representante (representante_id);
 GO
+
+
